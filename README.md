@@ -5,8 +5,7 @@ This repository explains how to make a connection from a SQL database in Azure t
 
 ## Running the Code
 
-To run the code, first, ensure you have all the dependencies installed:
-
+To run the code, first, ensure you have all the dependencies installed. And remember to replace the "****" with your connection data to your BD.
 
 ## Contributions
 
