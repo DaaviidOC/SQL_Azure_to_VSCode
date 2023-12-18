@@ -1,4 +1,4 @@
-This repository contains an experimentation project for the Data Science class at Upgrade Hub. We utilize Weights & Biases to systematically tune and evaluate the hyperparameters of a Gradient Boosting Classifier. The dataset we are working with is the Wine dataset.
+This repository explains how to make a connection from a SQL database in Azure to our Visual Studio Code. It is an exercise done in class on Upgrade Hub.
 ## About Upgrade Hub
 
 [Upgrade Hub](https://www.upgrade-hub.com/) is an educational institution dedicated to offering high-quality training programs in technology and data science.
