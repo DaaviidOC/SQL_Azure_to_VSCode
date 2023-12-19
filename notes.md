@@ -4,10 +4,6 @@
 
 This project demonstrates the process of establishing a connection from a SQL database in Azure to Visual Studio Code. The objective is to provide a clear, step-by-step guide that can be followed to set up a local development environment connected to a remote Azure SQL database.
 
-## Data Source
-
-The analysis is based on a dataset stored in a CSV file, which contains [briefly describe the data, such as the type of data, key fields, etc.]. This data was used to test the successful connection and interaction with the database.
-  
 ## Findings and Observations
 
 - Successful Connection: The project successfully demonstrates how to connect Visual Studio Code to an Azure SQL database, enabling direct interaction with the database from the local environment.
