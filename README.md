@@ -1,3 +1,5 @@
+<img src="https://github.com/DaaviidOC/SQL_Azure_to_VSCode/blob/main/files/azure-sql-database.png" />
+
 # SQL Database Connection from Azure to Visual Studio Code
 
 This repository contains a detailed guide on how to establish a connection from a SQL database hosted in Azure to Visual Studio Code locally. This project is part of a practical exercise conducted at Upgrade Hub.
